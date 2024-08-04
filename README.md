@@ -54,14 +54,6 @@ Remaining in the Admin Panel, Agents>Teams>Add New Team. Name the team "Level II
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/179022d4-600c-479c-9889-637ad8827b4c"/>
-</p>
-<p>
-Still in the Admin Panel, Settings>Users Settings. Check "Registration Required: Require registration and login to create tickets. 
-</p>
-<br />
-
-<p>
 <img src="https://github.com/user-attachments/assets/91339e93-067e-423b-b89e-bd3a0fe14ece"/>
 </p>
 <p>
